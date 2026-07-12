@@ -60,7 +60,8 @@ This step matters — feeding a model "0 BMI" would quietly corrupt predictions 
 ## 🔍 Exploratory Data Analysis (EDA)
 
 ### 1️⃣ Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/correlation_heatmap.png) ![Uploading image.png…]()
+
 
 `Glucose` has the strongest correlation with `Outcome`, followed by `BMI` and `Age` — our first clue about which features will drive the model.
 
